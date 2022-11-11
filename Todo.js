@@ -6,6 +6,13 @@ const Todo = () => {
         <>
         <View>
             <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
+            <Text>Shivam</Text>
         </View>
         </>)
 }
