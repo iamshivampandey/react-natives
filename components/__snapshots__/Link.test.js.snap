@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<View>
+  <Text
+    className="normal"
+    href="http://www.facebook.com"
+  >
+    shivam 
+    Facebook
+  </Text>
+</View>
+`;
