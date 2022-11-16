@@ -15,7 +15,7 @@ export default function Link({page, children}) {
         className={status}
         href={page || '#'}
         >
-         shivam {children}
+         shivam {children} account
        </Text>
     </View>
     
